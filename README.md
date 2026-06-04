@@ -24,7 +24,7 @@ CodeBlue AI is engineered as a highly responsive, secure, multi-tier ecosystem:
 ## 👥 Executive Leadership Board & Core Roles
 
 ### 1. Kuwar Vishwajeet Singh — Founder & Chief Execution 
-* **Strategic Mandate:** Guides the overall vision, long-term operational scaling boundaries, investor relations, and high-stakes executive decisions.
+* **Strategic Mandate:** Guides the overall vision, long-term operational scaling boundaries, investor relations, and high-stakes executive decisions along with Core Development.
 * **Core Engineering Impact:** Conceptualized the baseline ecosystem workflow; architected the multi-login cloud structure and supervised Gemini API logic implementations.
 
 ### 2. Amritansh Singh — Chief Technology Officer (CTO) & Co-Founder
@@ -32,13 +32,14 @@ CodeBlue AI is engineered as a highly responsive, secure, multi-tier ecosystem:
 * **Core Engineering Impact:** Deployed the React/Vite application layer, wired the Gemini API endpoints, and built the live web-socket data streaming matrices for the hospital dashboard feeds.
 
 ### 3. Adima Agarwal — Chief Operating Officer (COO) & Co-Founder
-* **Operational Governance:** Commands agile sprint scheduling, project documentation repositories, cross-functional communication guardrails, and key performance tracking.
+* **Operational Governance:** Commands agile sprint scheduling, , cross-functional communication guardrails, and key performance tracking.
 * **Core Engineering Impact:** Designed the centralized issue task board matrix, spearheaded end-to-end parallel system validation testing, and managed delivery pipelines.
+* Future Backend Integration using Springboot.
 
 ---
 
 ## 🛠️ Technology Stack
-* **Language & Runtime:** JavaScript / TypeScript, Node.js
+* **Language & Runtime:** JavaScript / TypeScript, Node.js(At Starting),  Springboot(Future Integration)
 * **Framework & Build Utility:** React, Vite
 * **Artificial Intelligence Engine:** Google Gemini AI APIs MAP, Adhar Authentication API
 * **Mapping Environment:** GIS Spatial Mapping & Dynamic Routing Services
