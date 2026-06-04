@@ -1,7 +1,7 @@
 
 # CodeBlue AI 🚑💡
 
-> An intelligent, scalable, and AI-powered healthcare emergency response ecosystem designed to minimize response delays and maximize patient survival outcomes.**
+> An intelligent, scalable, and AI-powered healthcare emergency response ecosystem designed to minimize response delays and maximize patient survival outcomes.
 
 
 
