@@ -3,7 +3,11 @@
 
 > An intelligent, scalable, and AI-powered healthcare emergency response ecosystem designed to minimize response delays and maximize patient survival outcomes.**
 
----
+
+📁 CodeBlue_AI_Project
+ ├── 🌿 main         -> 📄 (Only documents, system layout images, README)
+ ├── 🌿 frontend     -> 💻 (Only frontend code)
+ └── 🌿 backend      -> ⚙️ (Only backend code)
 
 ## 🌟 The Unified Vision
 Every second optimized in emergency transit is a heartbeat reclaimed for a family. Legacy healthcare emergency frameworks suffer from critical communication silos and transit latency. 
