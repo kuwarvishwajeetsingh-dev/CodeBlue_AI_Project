@@ -1,5 +1,4 @@
-# CodeBlue_AI_Project
-CodeBlue AI is an intelligent, AI-powered healthcare emergency ecosystem designed to minimize response delays and improve patient survival outcomes through real-time dynamic routing and unified hospital dashboards.
+
 # CodeBlue AI 🚑💡
 
 > An intelligent, scalable, and AI-powered healthcare emergency response ecosystem designed to minimize response delays and maximize patient survival outcomes.**
