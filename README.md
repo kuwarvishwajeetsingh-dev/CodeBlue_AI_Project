@@ -7,7 +7,7 @@
 
 
 
-📁 CodeBlue_AI_Project( Branches Division)
+📁 CodeBlue_AI_Project( Branche Division)
 
  ├── 🌿 main         -> 📄 (Only documents, system layout images, README)
  
