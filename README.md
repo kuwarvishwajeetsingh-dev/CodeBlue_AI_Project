@@ -7,7 +7,9 @@
 📁 CodeBlue_AI_Project
 
  ├── 🌿 main         -> 📄 (Only documents, system layout images, README)
+ 
  ├── 🌿 frontend     -> 💻 (Only frontend code)
+ 
  └── 🌿 backend      -> ⚙️ (Only backend code)
 
 ## 🌟 The Unified Vision
